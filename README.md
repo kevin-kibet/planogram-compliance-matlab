@@ -1,9 +1,9 @@
-PROBLEM DEFINITION
+# PROBLEM DEFINITION
 
 To propose an image processing technique for the          detection of planogram deviation in super markets.
 
 
-MOTIVATION
+# MOTIVATION
 
 
 Product positioning is of great importance in supermarkets
@@ -14,12 +14,12 @@ manually and causes time loss. With this project we aim for
 the automation of planogram compliance control.
 
 
-OBJECTIVE
+# OBJECTIVE
 
 In our project our main aim is detection of planogram deviation. Each time a sample image is given the features are extracted and the object detection is done. If the arrangement is correct then there is no misplaced object else the misplaced object is detected by indicating it with a rectangular box
 
 
-SPECIFIATIONS
+# SPECIFIATIONS
 
 The proposed system requires the following specifications.
 MATLAB-R2014
